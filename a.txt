@@ -14,4 +14,9 @@ your current branch 'master' does not have any commits yet
 您当前的分支“master”还没有任何提交。
 
 Reinitialized existing Git repository in E:/01_Spring/01_Linux/test/.git/
-重新初始化现有的Git存储库。
+重新初始化现有的Git存储库ddasdasda
+dasdasda
+sd
+asd
+a
+sdasdasdasd:
